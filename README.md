@@ -1,18 +1,9 @@
 ### <div align="center">Computer Vision</div>  
-  
 
 -  I’m currently working on [Github Repo](https://github.com/maliekici/zero_to_ComputerVision.git)  
-  
 
 - 🌱I'm currently learn computer vision and working on my projects.  
-  
-
-<br/>  
-
-
-
 <table><tr><td valign="top" width="33%">
-
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
@@ -20,8 +11,6 @@
 </div>
 
 </td></tr></table>  
-
-<br/>  
 
 
 
