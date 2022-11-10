@@ -1,7 +1,5 @@
 ### <div align="center">Computer Vision</div>  
 
--  I’m currently working on [Github Repo](https://github.com/maliekici/zero_to_ComputerVision.git)  
-
 - 🌱I'm currently learn computer vision and working on my projects.  
 
 
