@@ -3,7 +3,7 @@
 </div>  
   
 
-## ***<div align="center">Mehmet Ali Ekici</div>***  
+## ***<div align="center">Hey, I'm Mehmet Ali Ekici</div>***  
   
 
 - *I'm currently learning computer vision and filled my GitHub with Computer Vision projects.*  
